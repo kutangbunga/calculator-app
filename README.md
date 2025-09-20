@@ -17,13 +17,6 @@ This is my first web application project 🚀
 
 ---
 
-## 🖥️ Preview
-
-![Calculator Screenshot](./screenshot.png)  
-_(Add your screenshot here, or replace this line with a GIF demo)_
-
----
-
 ## 🛠️ Tech Stack
 
 - **HTML5** – structure
